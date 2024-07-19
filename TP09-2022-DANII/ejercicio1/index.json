@@ -1,0 +1,27 @@
+[
+    {
+      "id": 0,
+      "nombre": "documentoTXT",
+      "extencion": "txt"
+    },
+    {
+      "id": 1,
+      "nombre": "exel1",
+      "extencion": "xlsx"
+    },
+    {
+      "id": 2,
+      "nombre": "powerP",
+      "extencion": "pptx"
+    },
+    {
+      "id": 3,
+      "nombre": "word_1",
+      "extencion": "docx"
+    },
+    {
+      "id": 4,
+      "nombre": "word_2",
+      "extencion": "docx"
+    }
+  ]

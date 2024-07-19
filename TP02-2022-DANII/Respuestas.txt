@@ -1,0 +1,8 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+. No se puede ver el archivo "tp2_1_2.c", porque esta en la rama del branch "Opcion_2".
+
+Vuelva a ejecutar el comando gitk --all. ¿Qué diferencias nota?
+. Visualmente se puede notar que las ramas de los branch "Opcion_2" y "main" estan separadas, una ve hecho el commit de "respuestas.txt" solo es visible en la rama del branch "main".
+
+El comando git merge Opcion_2 -m “merge opcion 2” combinamos master con Opcion_2, luego utilice el comando gitk --all para ver los cambios, ¿Qué nota?
+. Se puede notar con el gitk --all que el nodo del branch "Opcion_2" esta conectado con el del "main".

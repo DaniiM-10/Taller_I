@@ -1,0 +1,8 @@
+ID, NOMBRE, EXTENSION
+0, documentoTXT, .txt
+1, exel1, .xlsx
+2, powerP, .pptx
+3, word_1, .docx
+4, word_2, .docx
+5, Carpeta1, 'Sin Extensión'
+6, Carpeta2, 'Sin Extensión'
